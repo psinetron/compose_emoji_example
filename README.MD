@@ -61,6 +61,3 @@ TextFieldWithCustomEmoji(
 *   Android SDK 24+
 *   Jetpack Compose
 
-## License
-
-[MIT License](LICENSE)
